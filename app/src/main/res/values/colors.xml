@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="test">#546E7A</color>
+
+    <color name="food_color">#546E7A</color>
+    <color name="cafe_color">#546E7A</color>
+    <color name="desserts_color">#546E7A</color>
+    <color name="happyhour_color">#546E7A</color>
+    <color name="entertainment_color">#546E7A</color>
+    <color name="active_color">#546E7A</color>
+</resources>

@@ -1,0 +1,177 @@
+<resources>
+    <string name="app_name">My626Spots</string>
+
+
+    <string-array name="categories">
+        <item>Restaurants</item>
+        <item>Tea/Coffee</item>
+        <item>Desserts</item>
+        <item>Happy Hour</item>
+        <item>Entertainment</item>
+        <item>Active</item>
+    </string-array>
+
+    <string name="food_category">Restaurants</string>
+    <string name="cafe_category">Tea/Coffee</string>
+    <string name="desserts_category">Desserts</string>
+    <string name="happyhour_category">Happy Hour</string>
+    <string name="entertainment_category">Entertainment</string>
+    <string name="active_category">Active Life</string>
+
+    <array name="cafes">
+        <item>@array/cafe1</item>
+        <item>@array/cafe2</item>
+        <item>@array/cafe3</item>
+        <item>@array/cafe4</item>
+        <item>@array/cafe5</item>
+        <item>@array/cafe6</item>
+    </array>
+
+    <string-array name="cafe1">
+        <item name="name">Ladybug Tea House</item>
+        <item name="street">1457 E Valley Blvd</item>
+        <item name="city">Alhambra</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91801</item>
+        <item name="number">6263163197</item>
+    </string-array>
+
+    <string-array name="cafe2">
+        <item name="name">Factory Tea Bar</item>
+        <item name="street">323 S Mission Dr</item>
+        <item name="city">San Gabriel</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91776</item>
+        <item name="number">6268762969</item>
+    </string-array>
+
+    <string-array name="cafe3">
+        <item name="name">Half n Half Tea House</item>
+        <item name="street">120 N San Gabriel Blvd</item>
+        <item name="city">San Gabriel</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91778</item>
+        <item name="number">6263099387</item>
+    </string-array>
+
+    <string-array name="cafe4">
+        <item name="name">AU79 Teahouse</item>
+        <item name="street">1635 S San Gabriel Blvd</item>
+        <item name="city">San Gabriel</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91776</item>
+        <item name="number">6262809998</item>
+    </string-array>
+
+    <string-array name="cafe5">
+        <item name="name">Ten Ren</item>
+        <item name="street">154 W Valley Blvd</item>
+        <item name="city">San Gabriel</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91776</item>
+        <item name="number">6262281663</item>
+    </string-array>
+
+    <string-array name="cafe6">
+        <item name="name">Macchiato</item>
+        <item name="street">141 N Atlantic Blvd Ste 110</item>
+        <item name="city">Monterey Park</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91754</item>
+        <item name="number">6268721351</item>
+    </string-array>
+
+    <array name="desserts">
+        <item>@array/dessert1</item>
+        <item>@array/dessert2</item>
+        <item>@array/dessert3</item>
+        <item>@array/dessert4</item>
+        <item>@array/dessert5</item>
+        <item>@array/dessert6</item>
+        <item>@array/dessert7</item>
+        <item>@array/dessert8</item>
+        <item>@array/dessert9</item>
+    </array>
+
+    <string-array name="dessert1">
+        <item name="name">Macchiato</item>
+        <item name="street">141 N Atlantic Blvd Ste 110</item>
+        <item name="city">Monterey Park</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91754</item>
+        <item name="number">6268721351</item>
+    </string-array>
+
+    <string-array name="dessert2">
+        <item name="name">Love To Go</item>
+        <item name="street">307 S Mission Dr</item>
+        <item name="city">San Gabriel</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91776</item>
+        <item name="number">6267661066</item>
+    </string-array>
+
+    <string-array name="dessert3">
+        <item name="name">Bambu</item>
+        <item name="street">432 East Valley Blvd</item>
+        <item name="city">San Gabriel</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91776</item>
+        <item name="number">6262848480</item>
+    </string-array>
+
+    <string-array name="dessert4">
+        <item name="name">Crepe Love</item>
+        <item name="street">7 E Valley Blvd</item>
+        <item name="city">Alhambra</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91801</item>
+        <item name="number">6265701217</item>
+    </string-array>
+
+    <string-array name="dessert5">
+        <item name="name">Oh My Pan</item>
+        <item name="street">801 E Valley Blvd</item>
+        <item name="city">San Gabriel</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91776</item>
+        <item name="number">6263077719</item>
+    </string-array>
+
+    <string-array name="dessert6">
+        <item name="name">Bake Code</item>
+        <item name="street">140 W Valley Blvd</item>
+        <item name="city">San Gabriel</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91776</item>
+        <item name="number">6262885118</item>
+    </string-array>
+
+    <string-array name="dessert7">
+        <item name="name">85 Degree</item>
+        <item name="street">300 W Main St</item>
+        <item name="city">Alhambra</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91801</item>
+        <item name="number">6262938585</item>
+    </string-array>
+
+    <string-array name="dessert8">
+        <item name="name">JJ2 Bakery</item>
+        <item name="street">150 E Main St</item>
+        <item name="city">Alhambra</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91801</item>
+        <item name="number">6267415388</item>
+    </string-array>
+
+    <string-array name="dessert9">
+        <item name="name">Phoenix Dessert</item>
+        <item name="street">220 E Valley Blvd</item>
+        <item name="city">Alhambra</item>
+        <item name="state">CA</item>
+        <item name="zipcode">91804</item>
+        <item name="number">6262991918</item>
+    </string-array>
+
+</resources>
